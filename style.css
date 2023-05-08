@@ -1,0 +1,21 @@
+.body_backgorund 
+{
+    
+background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: rgb(238, 136, 207); 
+    border-style:ridge;
+	border-color:rgb(138, 245, 227);
+}
+
+#myCanvas1
+{
+    border-width:10px;
+    background-color: rgb(245, 193, 24); 
+    border-style:dashed;
+	
+}
